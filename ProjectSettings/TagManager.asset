@@ -3,17 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Weapon
+  - UIUpgradePage
+  - UIUpgradePanel
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Tower
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Weapons
+  - Units
+  - Background
   - 
   - 
   - 
